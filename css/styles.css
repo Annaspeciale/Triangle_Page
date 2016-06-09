@@ -1,0 +1,20 @@
+h1 {
+  font-family: fantasy;
+  color: purple;
+}
+#triangle {
+  font-family: cursive;
+}
+
+* {
+  background-color: grey;
+}
+
+button {
+  position: center;
+}
+
+.btn btn-primary {
+  position: relative;
+  margin: auto;
+}
